@@ -1,0 +1,42 @@
+research:
+  title: Research Experiences
+  info:
+  - role: Research Technician
+    group: A. Gorden Research Group
+    institute: Auburn University
+    city: Auburn
+    state: AL
+    timestart: 08/2014
+    timeend: 04/2016
+    details: |
+      - Synthesized new compound based on fluorescent *6,7-diamino-2-quinoxalinol* for cleanup of uranium fuel contamination sites 
+      - Honors Thesis: *Sulfonated 2-quinoxalinol ligands for aqueous extraction of uranium and other metals submitted to Auburn University, 2016*
+  - role: Medical Student Researcher
+    group: Family Medicine Summer Research Program
+    institute: UTHSC
+    city: Memphis
+    state: TN
+    timestart: 05/2017
+    timeend: 07/2017
+    details: |
+      - Assessed baseline compliance and proposed interventions for abdominal aortic aneurysm screening quality improvement for the UT Family Medicine clinic in Jackson, TN 
+  - role: Resident Researcher
+    group: J. Lagatta Research Group
+    institute: Medical College of Wisconsin
+    city: Milwaukee
+    state: WI
+    timestart: 02/2021
+    timeend: 06/2023
+    details: |
+      - Assisted in preparation of Institutional Review Board protocol to develop ongoing interdisciplinary Bronchopulmonary Dysplasia database
+      - Developed audiovisual scripts for parent and nurse education regarding home oxygen weaning to support a team quality improvement project
+      - Performed secondary statistical analysis utilizing STATA 16 and presented findings at the Pediatric Academic Society Meeting 2022
+  - role: Research Fellow
+    group: J. Lagatta Research Group
+    institute: Medical College of Wisconsin
+    city: Milwaukee
+    state: WI
+    timestart: 07/2023
+    timeend: Present
+    details: |
+      - Assessing symptom trajectories of bronchopulmonary dysplasia and progression to post-prematurity respiratory disease

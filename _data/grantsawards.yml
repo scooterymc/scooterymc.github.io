@@ -1,0 +1,18 @@
+awards:
+  title: Research grants/Awards/Contracts/Projects
+  info:
+  - section: Active
+    info:
+    - subsection: Peer Reviewed
+      info:
+      - award: Bronchopulmonary Dysplasia Symptom Trajectories
+        type: T32
+        source: NIH
+        role: Principal Investigator
+        timestart: 07/01/2024
+        timeend: 06/30/2025
+        funds: $83,725
+  - section: Past
+    info:
+    - subsection: Peer Reviewed
+      info: ''

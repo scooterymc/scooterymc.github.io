@@ -1,0 +1,26 @@
+education:
+  title: Education
+  info:
+  - degree: Bachelor of Science in Biomedical Sciences
+    minor: Psychology
+    distinction: magna cum laude
+    timestart: 2012
+    timeend: 2016
+    university: Auburn University
+    city: Auburn
+    state: AL
+    abbr: AU
+  - degree: Doctor of Medicine
+    timestart: 2016
+    timeend: 2020
+    university: University of Tennessee Health Science Center College of Medicine
+    city: Memphis
+    state: TN
+    abbr: UTHSC
+  - degree: Graduate Certificate of Clinical and Translational Sciences
+    timestart: 2024
+    timeend: 2025
+    university: Medical College of Wisconsin
+    city: Milwaukee
+    state: WI
+    abbr: MCW

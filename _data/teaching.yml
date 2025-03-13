@@ -1,0 +1,30 @@
+teaching:
+  title: Teaching Positions
+  info:
+  - position: Instructor 
+    program: ''
+    organization: Kaplan University 
+    timestart: 5/2015 
+    timeend: 12/2015
+    city: Memphis
+    state: TN
+    details: |
+    - Tutored on MCAT, DAT, and OAT tests in classroom setting utilizing the Kaplan Method
+  - position: Undergraduate Teaching Assistant 
+    program: Auburn Chemistry Department
+    organization: Auburn University
+    timestart: 1/2016 
+    timeend: 4/2016
+    city: Auburn
+    state: AL
+    details: |
+    - Instructed undergraduate students in General Chemistry introductory lab
+  - position: Peer Instructor 
+    program: Teaching Scholars Program
+    organization: UTHSC 
+    timestart: 8/2019 
+    timeend: 5/2020
+    city: Memphis
+    state: TN
+    details: |
+    - Instructed pre-clinical medical students in obtaining patient history and performing exams skills in accordance with their curriculum 

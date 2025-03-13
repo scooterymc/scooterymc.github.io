@@ -1,0 +1,35 @@
+qualifications:
+  title: Licensing and Certifications
+  board: Board Certified
+  info:
+  - organization: American Board of Pediatrics
+    issued: 10/12/2023
+    expiration: 12/21/2028
+  license: Licensure and Registration
+  info:
+  - organization: Wisconsin Medical Examining Board
+    number: 75928-20 
+    issued: 09/20/2021
+    expiration: 10/31/2025
+  - organization: DEA Controlled Substance Registration
+    number: FS0846684
+    issued: 09/27/2021
+    expiration: 02/28/2027
+  certifications: Certifications
+  info:
+  - certificate: Basic Life Support
+    organization: AHA
+    issued: 08/2016
+    expiration: 04/30/2026
+  - certificate: Pediatric Advanced Life Support
+    organization: AHA
+    issued: 06/2020
+    expiration: 04/01/2024
+  - certificate: Neonatal Resuscitation Provider
+    organization: AHA/AAP
+    issued: 06/2020
+    expiration: 4/30/2026
+  - certificate: Physician Builder
+    organization: Epic Systems
+    issued: 08/29/2023
+    expiration: ---

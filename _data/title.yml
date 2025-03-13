@@ -1,0 +1,21 @@
+# personal information and position
+name: William Scott, MD
+position: 
+  title: Neonatology Fellow
+  info:
+  - institute: Medical College of Wisconsin
+    department: Department of Pediatrics
+    division: Division of Neonatology
+    address1: Children's Corporate Center - Suite C410
+    address2: 999 N. 92nd Street
+    city: Milwaukee
+    state: WI
+    zip: 53226
+    officephone: (414) 266-6820
+    officefax: (414) 266-6979
+avatar: ''
+
+# contact information
+email: wscott@mcw.edu
+timezone: America/North_Dakota/Center # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+linkedin: www.linkedin.com/in/william-scott-md-435b7aaa
