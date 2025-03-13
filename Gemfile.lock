@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll-tailwindcss (0.6.2)
+      tailwindcss-ruby
+    tailwindcss-ruby (4.0.12)
+    tailwindcss-ruby (4.0.12-aarch64-linux-gnu)
+    tailwindcss-ruby (4.0.12-aarch64-linux-musl)
+    tailwindcss-ruby (4.0.12-arm64-darwin)
+    tailwindcss-ruby (4.0.12-x86_64-darwin)
+    tailwindcss-ruby (4.0.12-x86_64-linux-gnu)
+    tailwindcss-ruby (4.0.12-x86_64-linux-musl)
+
+PLATFORMS
+  aarch64-linux-gnu
+  aarch64-linux-musl
+  arm64-darwin
+  ruby
+  x86_64-darwin
+  x86_64-linux-gnu
+  x86_64-linux-musl
+
+DEPENDENCIES
+  jekyll-tailwindcss (~> 0.6.2)
+
+BUNDLED WITH
+   2.6.5
