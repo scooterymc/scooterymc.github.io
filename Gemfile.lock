@@ -21,7 +21,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  jekyll-tailwindcss (~> 0.6.2)
+  jekyll-tailwindcss
 
 BUNDLED WITH
    2.6.5
